@@ -8,7 +8,8 @@
   </maintainer>
   <description>
     <p>
-      RAP port of the Tabbed Properties View.
+      RAP port of the
+      <a href="http://www.eclipse.org/articles/Article-Tabbed-Properties/tabbed_properties_view.html">Tabbed Properties View</a>.
     </p>
   </description>
 </component>
